@@ -1,7 +1,8 @@
 name                     : TM-CRM_ERP
 version                  : 0.6.0
 author                   : ToManage
-database                 : mongodb://127.0.0.1/mydatabase
+// database                 : mongodb://127.0.0.1/mydatabase
+database                 : mongodb://tm:tmcrm@ds139360.mlab.com:39360/tm-crm
 dateformatShort          : DD/MM/YYYY
 dateformatLong           : DD/MM/YYYY HH:mm
 manager-url              : /erp

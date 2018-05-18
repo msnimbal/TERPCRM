@@ -69,6 +69,7 @@
     "test-eslint": "eslint ./app/**/**.js",
     "test-htmlhint": "htmlhint ./app/**/**/*.html",
     "test-csslint": "csslint ./public/css/**.css",
-    "test-mocha": "mocha tests/"
+    "test-mocha": "mocha tests/",
+    "prod": "cp config.sample config && node debug.js"
   }
 }
