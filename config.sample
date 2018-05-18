@@ -2,8 +2,9 @@ name                     : TM-CRM_ERP
 version                  : 0.6.0
 author                   : ToManage
 // database                 : mongodb://127.0.0.1/mydatabase
-database                 : mongodb://tm:tmcrm@ds139360.mlab.com:39360/tm-crm
-dateformatShort          : DD/MM/YYYY
+// database                 : mongodb://tm:tmcrm@ds139360.mlab.com:39360/tm-crm
+database                 : mongodb://heroku_db:heroku123@ds139360.mlab.com:39360/heroku_98rkhcs3
+dateformatShort          : DD/MM/YYYYs
 dateformatLong           : DD/MM/YYYY HH:mm
 manager-url              : /erp
 phone                    : +33 6 76 76 17 65

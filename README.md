@@ -111,7 +111,7 @@ Demo authentication : admin/admin
 
 # Heroku
 
-https://tm-crm-demo.herokuapp.com/
+https://fast-headland-95887.herokuapp.com/
 
 Good coding :)
 

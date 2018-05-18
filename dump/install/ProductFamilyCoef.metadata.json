@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"install.ProductFamilyCoef"},{"v":1,"unique":true,"key":{"priceLists":1,"family":1},"name":"priceLists_1_family_1","ns":"install.ProductFamilyCoef","background":true}]}
